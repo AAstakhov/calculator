@@ -35,3 +35,8 @@ function calc3(a,b,c,d){
 	return(a+b*c/d)
 }
 console.log(calc3(15,15,2,2))
+
+//четвертый расчет
+function showFourResault(){
+	alert()
+}
